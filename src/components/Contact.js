@@ -77,7 +77,7 @@ export default function Contact() {
                 Contact Me
               </h2>
               <p className="leading-relaxed mb-5">
-                
+                (under development)
               </p>
               <div className="relative mb-4">
                 <label htmlFor="name" className="leading-7 text-sm text-gray-400">
